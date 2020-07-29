@@ -15,7 +15,7 @@ func main() {
 	//注释测试
 	fmt.Println("Hello,世界")
 	fmt.Println("github第一次编辑修改")
-	fmt.Println("本地第22次修改")
+	fmt.Println("本地第24次修改,返回22次后")
 	//fmt.Scanln()
 	variable()
 
